@@ -1,7 +1,7 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date:
-# Reg. No.:
+# Name: KAILASH KUMAR S
+# Reg. No.: 212223220041
 
 # Aim:
 To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
@@ -48,6 +48,36 @@ Tools/LLMs for Video Generation:
 2.	The Final Generated Video: The Video created using your refined prompt.
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
+
+# Prompt:
+wolf make a sound at dark night of forest with peace surrounded by trees in 4k with a sunset scenario 
+
+<video controls src="Wolf_Video_Generation_Request.mp4" title="Title"></video>
+
+
+# prompt 2:
+Cinematic supercars (red, white, dark green) racing and drifting on a racetrack during golden hour sunset, kicking up dust and smoke.Low-angle tracking shot with motion blur, dramatic lighting, lens flare, and a helicopter following from above.
+Ultra-realistic 4K visuals, dynamic reflections, stadium background, intense high-speed racing atmosphere.
+
+<video controls src="VIDEO_1.mp4" title="Title"></video>
+
+
+# prompt 3:
+
+A dynamic cinematic scene showing fast-paced action with smooth camera movement, capturing intense motion and dramatic environment details.Realistic lighting with shadows, motion blur, and high-detail textures creating an immersive atmosphere.
+Ultra-realistic 4K quality with cinematic color grading, depth of field, and visually striking composition.
+
+<video controls src="VIDEO_2.mp4" title="Title"></video>
+
+
+# prompt 4:
+
+Gemini said
+High-octane sunset race featuring sleek supercars drifting through a wide curve, kicking up golden dust against an intense orange sky.A low-angle tracking shot transitions to a wide aerial view, revealing a massive stadium crowd and a helicopter hovering overhead.Cinematic lighting emphasizes the metallic curves of the cars and long shadows, creating a high-energy, professional racing broadcast aesthetic.
+
+<video controls src="VIDEO3.mp4" title="Title"></video>
+
+
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
