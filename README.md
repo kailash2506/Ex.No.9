@@ -52,7 +52,7 @@ Tools/LLMs for Video Generation:
 # Prompt 1:
 wolf make a sound at dark night of forest with peace surrounded by trees in 4k with a sunset scenario 
 
-
+https://drive.google.com/file/d/1HUgPCzU-hJiKGt0Qmt0IQj8m0lDRFOS0/view?usp=drive_link
 
 
 
@@ -75,6 +75,7 @@ https://drive.google.com/file/d/1kax3NWbKGDNNp470ZNlRsNwMjdkXx176/view?usp=drive
 
 High-octane sunset race featuring sleek supercars drifting through a wide curve, kicking up golden dust against an intense orange sky.A low-angle tracking shot transitions to a wide aerial view, revealing a massive stadium crowd and a helicopter hovering overhead.Cinematic lighting emphasizes the metallic curves of the cars and long shadows, creating a high-energy, professional racing broadcast aesthetic.
 
+https://drive.google.com/file/d/1fOIEMV6Q1TAI7HCkBRrdyQwc3krU2UQM/view?usp=drive_link
 
 
 
