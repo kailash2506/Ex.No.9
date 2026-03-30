@@ -49,33 +49,32 @@ Tools/LLMs for Video Generation:
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
 
-# Prompt:
+# Prompt 1:
 wolf make a sound at dark night of forest with peace surrounded by trees in 4k with a sunset scenario 
 
-<video controls src="Wolf_Video_Generation_Request.mp4" title="Title"></video>
+
+
+
 
 
 # prompt 2:
 Cinematic supercars (red, white, dark green) racing and drifting on a racetrack during golden hour sunset, kicking up dust and smoke.Low-angle tracking shot with motion blur, dramatic lighting, lens flare, and a helicopter following from above.
 Ultra-realistic 4K visuals, dynamic reflections, stadium background, intense high-speed racing atmosphere.
 
-<video controls src="VIDEO_1.mp4" title="Title"></video>
-
+https://drive.google.com/file/d/1IQuCQQwPkPwhZIDHFq5Hqxw68hPKcqYc/view?usp=drive_link
 
 # prompt 3:
 
 A dynamic cinematic scene showing fast-paced action with smooth camera movement, capturing intense motion and dramatic environment details.Realistic lighting with shadows, motion blur, and high-detail textures creating an immersive atmosphere.
 Ultra-realistic 4K quality with cinematic color grading, depth of field, and visually striking composition.
 
-<video controls src="VIDEO_2.mp4" title="Title"></video>
+https://drive.google.com/file/d/1kax3NWbKGDNNp470ZNlRsNwMjdkXx176/view?usp=drive_link
 
 
 # prompt 4:
 
-Gemini said
 High-octane sunset race featuring sleek supercars drifting through a wide curve, kicking up golden dust against an intense orange sky.A low-angle tracking shot transitions to a wide aerial view, revealing a massive stadium crowd and a helicopter hovering overhead.Cinematic lighting emphasizes the metallic curves of the cars and long shadows, creating a high-energy, professional racing broadcast aesthetic.
 
-<video controls src="VIDEO3.mp4" title="Title"></video>
 
 
 
